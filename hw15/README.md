@@ -31,27 +31,30 @@ Before the end of break, as producers we will "score" the difficulty of each. Th
 
 ----
 
-## Prototype Game
-A simple point-and-click adventure game about perspective of an underachieving game programmer walking the line between pink slip and productivity.
+Skyler's game pitches! :D
 
-### Genre
-In the style of the old lucasarts adventure games like "Monkey Island".
+## Steampunk Platformer
+Story-based platformer in which you play as a young boy in 1908 trying to save his father from an evil professor.
+## Genre
+Platformer a la Super Mario Bros.
+## Technical Hurdles
+-Power-ups
+-Various enemies and bosses
 
-### Technical Hurdles
- * bottom menu
- * inventory
- * moving character where clicked
- * unique per item behaviors
+## History-Based Game
+Player plays as one of three countries in a World War I strategy game.
+## Genre
+Strategy. Similar to Making History and Age of Empires.
+##Technical Hurdles
+-Size of game
+-Menus
+-Features
 
+## Racing Title
+-Fun racing title against four other racers on randomized tracks.
+##Genre
+Racer, like Ridge Racer or Mario Kart.
+##Techical Hurdles
+-Powerups
+-Size of maps
 
-## Block Dude Adventures
-Based on the classic TI83+ game "Blockdude" with metroid-vania/open world level design and multiple block types.
-
-### Genre
-Tiled puzzle sidescroller
-
-### Technical Hurdles
- * multiple block types
- * saved state
- * level loading
- * player equipment
